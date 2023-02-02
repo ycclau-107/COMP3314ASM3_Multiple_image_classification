@@ -46,5 +46,5 @@ Through this course, I practically obtained the following techniques and princip
   5.5 Area under curve(AUC)
   
  6. Convolutional Neural Network(CNN)
-  6.1 Convolutionlayer
+  6.1 Convolution layer
 ```
